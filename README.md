@@ -7,6 +7,7 @@
 3. _Diala Abul-Khail_
 4. _Joud Alnsour_
 5. _Anas Abu Hamideh_
+6. _Ali Muhsen_
 
 ---
 
@@ -133,6 +134,28 @@
 
 ---
 
+## **Ali Muhsen**
+
+> Key strengths:
+
+    1. The Ability to learn new things
+    2. Self-motivated
+    3. Work under Pressure
+
+> utilizing these strengths in the project :
+
+    Using the passion of learning new things in the project such as continuous learnig for libraries and frameworks
+
+> develop greater strengths upon :
+
+    1- Having more Patience on errors
+    2- Improve Communication with others
+
+> approach the day-to-day work:
+
+    1- Make regular planning hours for project and finish these tasks in those times
+    2- Learn different things for different approaches for the tasks
+
 ## Conflict Plan
 
     Some potential ground rules might include:
@@ -189,9 +212,13 @@ B. What project management tool will be used?
 
     Trello DashBoard
 
+---
+
 ## Schedule your practice session
 
     A. Practice session will be held on Wednesday 27-Apr-2022
+
+---
 
 ## Git Process
 
